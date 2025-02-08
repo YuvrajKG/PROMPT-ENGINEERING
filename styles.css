@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    text-align: center;
+}
+
+.hero-section img {
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Product Section */
+#product {
+    background-color: #f1f1f1;
+}
+
+#product h2 {
+    color: #343a40;
+}
+
+#product .btn {
+    background-color: #001f3d; /* Navy Blue */
+    color: white;
+}
+
+/* Key Features Section */
+#features {
+    background-color: #ffffff;
+}
+
+#features h2 {
+    color: #343a40;
+}
+
+#features h4 {
+    color: #007bff;
+}
+
+/* Footer */
+footer {
+    background-color: #001f3d; /* Navy Blue */
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
