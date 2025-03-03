@@ -80,7 +80,7 @@ https://chatgpt.com/share/679e3b96-6938-800f-b354-640b33e7e6c8
 
 📢 Connect with Me!
 💼 LinkedIn: [Your LinkedIn Profile Link]
-🌍 GitHub: [Your GitHub Profile Link]
+🌍 GitHub: [https://github.com/YuvrajKG/PROMPT-ENGINEERING.git]
 📧 Email: [yuviig456@gmail.com ]
 
 📌 How to Use This README
