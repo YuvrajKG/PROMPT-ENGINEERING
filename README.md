@@ -73,9 +73,9 @@ Refine pricing strategies based on AI-generated data trends.
 🌐 EcoFlexBelt Sales Website – Home webpage designed using ChatGPT prompts for product sales.
 
 Here are Some Links of My ChatGPT so you take reference & Witnesses of My Prompts:
-https://chatgpt.com/share/679cf397-1ab0-800f-bb24-514609ef1d66
-https://chatgpt.com/share/67c5b1bd-2318-800f-a402-5c127312f842
-https://chatgpt.com/share/679cf7a5-6a8c-800f-97c6-8d0490d74961
+https://chatgpt.com/share/679cf397-1ab0-800f-bb24-514609ef1d66,
+https://chatgpt.com/share/67c5b1bd-2318-800f-a402-5c127312f842,
+https://chatgpt.com/share/679cf7a5-6a8c-800f-97c6-8d0490d74961,
 https://chatgpt.com/share/679e3b96-6938-800f-b354-640b33e7e6c8
 
 📢 Connect with Me!
