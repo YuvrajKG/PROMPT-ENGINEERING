@@ -79,7 +79,7 @@ https://chatgpt.com/share/679cf7a5-6a8c-800f-97c6-8d0490d74961,
 https://chatgpt.com/share/679e3b96-6938-800f-b354-640b33e7e6c8
 
 📢 Connect with Me!
-💼 LinkedIn: [Your LinkedIn Profile Link]
+💼 LinkedIn: [https://www.linkedin.com/in/yuvraj-kumar-gond-105a552ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOrdSY4skRWmPuWyGNHoCIA%3D%3D]
 🌍 GitHub: [https://github.com/YuvrajKG/PROMPT-ENGINEERING.git]
 📧 Email: [yuviig456@gmail.com ]
 
